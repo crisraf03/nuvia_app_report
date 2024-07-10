@@ -1,0 +1,17 @@
+1. hacer que el accounting + lab metric pasen al tiempo 
+
+2. que se actualicen los archivos en la carpeta de lab_metric_report donde esta el pbi
+
+3. que se actualicen los spreadsheet desde la carpeta de results - > data 
+
+4. que corran todos los programas de reportes de final de mes : {lab production : agregar la columna redos_clinic, redos_lab}
+
+5. revisar mejor la información de los statements, comparar la data entre meses y luego los que esten en clinic y no en lab buscarlos en meses anteriores ( que se muestre la cantidad en pantalla y en que meses los encontró)
+
+6. ir trabajando en el inventory para la data de junio
+
+7. hacer el estudio de gcam y redos
+
+8. unificar todos los responsable party y redo reason de toda la data que tengo
+
+9. hacer el estudio del mes casos material change / lo necesito para statements, recap, inventory
